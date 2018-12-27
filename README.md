@@ -42,7 +42,7 @@
   </body>
 </html>
 ```
-###텍스트 관련 요소  
+### 텍스트 관련 요소  
 **제목 요소**  
 > h1, h2 등 제목의 의미를 가지는 콘텐프를 마크업할때 사용할 수 있습니다. 
 **단락 요소**
@@ -65,7 +65,6 @@ alt 속성의 경우 이미지의대체 택스트 역할입니다.
 ```html
 <img src="./asset/snowman.png" alt="눈내리는 풍경과 눈사람" width="300" height ="450">
 ```
-![멀티캠퍼스]
-(http://el.multicampus.com/landing/images/2016/common/logo.gif)
+![멀티캠퍼스](http://el.multicampus.com/landing/images/2016/common/logo.gif)
 
 
